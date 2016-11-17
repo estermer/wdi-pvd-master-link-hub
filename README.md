@@ -1,4 +1,4 @@
-# WDI-PVD-Master-Link-Hub
+# WDI PVD Master Link Hub
 
 ## Week 1
 ### Monday
@@ -30,6 +30,7 @@
 
 | Lessons | Homework | Diagnostics | Resources
 | --- | --- | --- | ---
-| [JS Objects This](https://github.com/ga-wdi-boston/js-objects-this) | | [JS Reference Types Diagnostic](https://github.com/ga-wdi-boston/js-reference-types-diagnostic) | [JS Object Prototypes](http://www.w3schools.com/js/js_object_prototypes.asp)
+| [JS Objects This](https://github.com/ga-wdi-boston/js-objects-this)  | [JS Functions Ins and Outs Study](https://github.com/ga-wdi-boston/js-functions-ins-and-outs-study) | [JS Reference Types Diagnostic](https://github.com/ga-wdi-boston/js-reference-types-diagnostic) | [JS Object Prototypes](http://www.w3schools.com/js/js_object_prototypes.asp)
 |[JS OOJS Classes](https://github.com/ga-wdi-lessons/js-oojs-classes)
 |[ES6 Classes Practice](https://github.com/ga-wdi-exercises/es6-classes-practice)
+|[ES6 Classes Inheritance Practice](https://github.com/ga-wdi-exercises/es6-classes-inheritance-practice)
