@@ -39,3 +39,6 @@
 
 | Lessons | Homework | Diagnostics | Resources
 | --- | --- | --- | ---
+| [CSS Review](https://github.com/ga-wdi-lessons/css-review) | ---|[JS Objects Diagnostic](https://github.com/ga-wdi-boston/js-objects-diagnostic)| [Web Design in 4 mins](http://jgthms.com/web-design-in-4-minutes/#font-family)
+| --- | --- | --- | ---
+| --- | --- | --- | ---
