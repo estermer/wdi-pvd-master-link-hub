@@ -39,8 +39,18 @@
 
 | Lessons | Homework | Diagnostics | Resources
 | --- | --- | --- | ---
-| [CSS Review](https://github.com/ga-wdi-lessons/css-review) | ---|[JS Objects Diagnostic](https://github.com/ga-wdi-boston/js-objects-diagnostic)| [Web Design in 4 mins](http://jgthms.com/web-design-in-4-minutes/#font-family)
-| --- | --- | --- | [Color Wheel](https://color.adobe.com/create/color-wheel/)
-| --- | --- | --- | [Stock Photos](http://www.shutterstock.com/)
-| --- | --- | --- | [Site Design Inspiration](https://www.siteinspire.com/)
-| --- | --- | --- | [What Font Ext.](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+| [CSS Review](https://github.com/ga-wdi-lessons/css-review)| [Airbnb Mockup](https://github.com/ga-wdi-exercises/css-airbnb) |[JS Objects Diagnostic](https://github.com/ga-wdi-boston/js-objects-diagnostic) | [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes/#font-family)
+|[CSS Diner Exercise](http://flukeout.github.io/) | [JS Functions Ins and Outs](https://github.com/ga-wdi-boston/js-functions-ins-and-outs) | | [Can I Use](http://caniuse.com/#index)
+|[CSS Review Exercise](https://github.com/ga-wdi-exercises/css-review) | | | [Site Design Inspiration](https://www.siteinspire.com/)
+|[ECardly CSS Exercise](https://github.com/ga-wdi-exercises/ecardly) | | | [Invision App](https://www.invisionapp.com/)
+| [CSS Layout](https://github.com/ga-wdi-lessons/css-layout)| | | [Filler Text](https://hipsum.co/?paras=4&type=hipster-centric)
+| | | | [Color Wheel](https://color.adobe.com/create/color-wheel/)
+| | | | [Stock Photos](http://www.shutterstock.com/)
+| | | | [Icons & Visuals](https://thenounproject.com/)
+| | | | [What The Font](https://www.myfonts.com/WhatTheFont/)
+| | | | [Apple Store Color App](https://itunes.apple.com/us/app/sip/id507257563?mt=12)
+| | | | [Developer News](https://news.ycombinator.com/news)
+| | | | [Commit Logs From Last Night](http://www.commitlogsfromlastnight.com/)
+| | | | [Wireframing Tool](https://balsamiq.com/)
+| | | | [Color Combos](http://www.colorcombos.com/)
+| | | | [Eye Dropper Chrome Plugin](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
