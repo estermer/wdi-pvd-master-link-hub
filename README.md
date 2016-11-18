@@ -34,3 +34,8 @@
 |[JS OOJS Classes](https://github.com/ga-wdi-lessons/js-oojs-classes) | [HTML Intro](https://github.com/ga-wdi-lessons/html-intro)
 |[ES6 Classes Practice](https://github.com/ga-wdi-exercises/es6-classes-practice)
 |[ES6 Classes Inheritance Practice](https://github.com/ga-wdi-exercises/es6-classes-inheritance-practice)
+
+### Friday
+
+| Lessons | Homework | Diagnostics | Resources
+| --- | --- | --- | ---
