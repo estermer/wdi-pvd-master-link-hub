@@ -43,3 +43,4 @@
 | --- | --- | --- | [Color Wheel](https://color.adobe.com/create/color-wheel/)
 | --- | --- | --- | [Stock Photos](http://www.shutterstock.com/)
 | --- | --- | --- | [Site Design Inspiration](https://www.siteinspire.com/)
+| --- | --- | --- | [What Font Ext.](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
