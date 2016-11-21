@@ -1,5 +1,13 @@
 # WDI PVD Master Link Hub
 
+## Week 2
+### Monday
+
+| Lessons | Homework | Diagnostics | Resources
+| --- | --- | --- | ---
+|[CSS Layout](https://github.com/estermer/css-layout) | [jQuery Review](https://github.com/ga-wdi-exercises/the-jquery-review) | [JS Functions Ins and Outs Diagnostic](https://github.com/ga-wdi-boston/js-functions-ins-and-outs-diagnostic) | [Wirify](https://www.wirify.com/)
+|[jQuery and the DOM](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md) | [Extra: JS Airbnb](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/homework.md)| | [Over API](http://overapi.com/)
+
 ## Week 1
 ### Monday
 
