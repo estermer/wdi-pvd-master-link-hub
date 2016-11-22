@@ -18,19 +18,6 @@
 | [Color Scheme Switcher Exercise](https://github.com/ga-wdi-exercises/color-scheme-switcher)
 
 
-### Tuesday
-
-| Lessons | Homework | Exercises | Resources
-| --- | --- | --- | ---
-| | | [My-Blawg](https://github.com/ga-wdi-exercises/my-blawg) | [Window Object](http://www.w3schools.com/jsref/obj_window.asp)
-| | | [event-listener-practice](https://github.com/ga-wdi-exercises/event-listener-practice) |
-
-### Tuesday
-
-| Lessons | Homework | Exercises | Resources
-| --- | --- | --- | ---
-| | | [My-Blawg](https://github.com/ga-wdi-exercises/my-blawg) | [Window Object](http://www.w3schools.com/jsref/obj_window.asp)
-| | | [event-listener-practice](https://github.com/ga-wdi-exercises/event-listener-practice) |
 
 ## Week 1
 ### Monday
