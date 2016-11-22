@@ -8,6 +8,13 @@
 |[CSS Layout](https://github.com/estermer/css-layout) | [jQuery Review](https://github.com/ga-wdi-exercises/the-jquery-review) | [JS Functions Ins and Outs Diagnostic](https://github.com/ga-wdi-boston/js-functions-ins-and-outs-diagnostic) | [Wirify](https://www.wirify.com/)
 |[jQuery and the DOM](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md) | [Extra: JS Airbnb](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/homework.md)| | [Over API](http://overapi.com/)
 
+### Tuesday
+
+| Lessons | Homework | Diagnostics | Resources
+| --- | --- | --- | ---
+| | | [My-Blawg](https://github.com/ga-wdi-exercises/my-blawg) | [Window Object](http://www.w3schools.com/jsref/obj_window.asp)
+| | | |
+
 ## Week 1
 ### Monday
 
