@@ -17,6 +17,13 @@
 |[Events This Practice](https://github.com/ga-wdi-exercises/events-this-practice) | [Dev Tools Exercise](https://github.com/sf-wdi-33/dev-tools-training)
 | [Color Scheme Switcher Exercise](https://github.com/ga-wdi-exercises/color-scheme-switcher)
 
+### Wednesday
+
+| Morning Lesson | Homework (Due 11/28) | Group Teach Backs
+| --- | --- | ---
+|[ES6](https://github.com/ga-wdi-lessons/es6/blob/master/readme.md) | [Codecademy JS](https://www.codecademy.com/learn/javascript) | [Template Literals & The Spread Operator](https://github.com/jtellis/wdi-pvd-es6-features)
+| | | [Arrow Functions, Default Parameters, & Shortening ](https://github.com/MurphyPicard/group2nov23/blob/master/group2lessonplan.md)
+| | |[Classes & Getters and Setters](https://github.com/missjuliekhun/markdown-here/blob/lesson_plan/README.md)
 
 
 ## Week 1
