@@ -9,7 +9,7 @@
 | [Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) | | | |
-| | | | |
+| [AJAX and API's](https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md) | | | |
 | | | | |
 
 ## Week 2
