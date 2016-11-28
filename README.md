@@ -3,13 +3,12 @@
 ## Week 3
 ### Monday
 
-| Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
+| Morning Lesson | Afternoon Lesson  | Homework| Exercises | Resources
 | --- | --- | --- | --- | ---
-| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) | [API Directory](http://www.programmableweb.com/apis/directory)
+| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | [AJAX and API's](https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md) | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) | [API Directory](http://www.programmableweb.com/apis/directory)
 | [Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) | | | |
-| [AJAX and API's](https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md) | | | |
 | [Sass extends/inheritance](https://github.com/awanderlyss/GROUP3SASS) | | | |
 
 ## Week 2
