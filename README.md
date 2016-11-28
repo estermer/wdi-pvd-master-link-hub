@@ -6,6 +6,11 @@
 | Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
 | --- | --- | --- | --- | ---
 | [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) |
+| [Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
+| [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ## Week 2
 ### Monday
