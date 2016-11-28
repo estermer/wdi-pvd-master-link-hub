@@ -10,7 +10,7 @@
 | [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) | | | |
 | [AJAX and API's](https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md) | | | |
-| | | | |
+| [Sass extends/inheritance](https://github.com/awanderlyss/GROUP3SASS) | | | |
 
 ## Week 2
 ### Monday
