@@ -5,7 +5,7 @@
 
 | Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
 | --- | --- | --- | --- | ---
-| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) |
+| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) | [API Directory](http://www.programmableweb.com/apis/directory)
 | [Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
 | [Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) | | | |
