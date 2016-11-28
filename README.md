@@ -1,5 +1,12 @@
 # WDI PVD Master Link Hub
 
+## Week 3
+### Monday
+
+| Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
+| --- | --- | --- | --- | ---
+| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) |
+
 ## Week 2
 ### Monday
 
