@@ -6,6 +6,11 @@
 | Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
 | --- | --- | --- | --- | ---
 | [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) |
+| [Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
+| [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ## Week 2
 ### Monday
@@ -33,6 +38,13 @@
 | | |[Classes & Getters and Setters](https://github.com/missjuliekhun/markdown-here/blob/lesson_plan/README.md)
 | | |[Block Scope & Destructuring](https://github.com/ahnuce/readmeexample/blob/master/readmeexample.md)
 
+
+### Tuesday
+
+| Lessons | Homework | Diagnostics | Resources
+| --- | --- | --- | ---
+| | | [My-Blawg](https://github.com/ga-wdi-exercises/my-blawg) | [Window Object](http://www.w3schools.com/jsref/obj_window.asp)
+| | | |
 
 ## Week 1
 ### Monday
