@@ -1,12 +1,38 @@
 # WDI PVD Master Link Hub
 
+## Week 3
+### Monday
+
+| Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
+| --- | --- | --- | --- | ---
+| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) |
+
 ## Week 2
 ### Monday
 
-| Lessons | Homework | Diagnostics | Resources
-| --- | --- | --- | ---
-|[CSS Layout](https://github.com/estermer/css-layout) | [jQuery Review](https://github.com/ga-wdi-exercises/the-jquery-review) | [JS Functions Ins and Outs Diagnostic](https://github.com/ga-wdi-boston/js-functions-ins-and-outs-diagnostic) | [Wirify](https://www.wirify.com/)
-|[jQuery and the DOM](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md) | [Extra: JS Airbnb](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/homework.md)| | [Over API](http://overapi.com/)
+| Morning Lesson | Afternoon Lesson  | Homework| Diagnostics | Resources
+| --- | --- | --- | --- | ---
+|[CSS Layout](https://github.com/estermer/css-layout) |[jQuery and the DOM](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md) |[jQuery Review](https://github.com/ga-wdi-exercises/the-jquery-review) | [JS Functions Ins and Outs Diagnostic](https://github.com/ga-wdi-boston/js-functions-ins-and-outs-diagnostic) | [Wirify](https://www.wirify.com/)
+| | |[JS Airbnb (Extra)](https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/homework.md)| | [Over API](http://overapi.com/)
+
+### Tuesday
+
+| Morning Lesson | Afternoon Lesson | Homework (Due 11/28) | Diagnostics | Resources
+| --- | --- | --- | --- |---
+| [JS Events Callbacks](https://github.com/ga-wdi-lessons/js-events-callbacks)|[JS Scope & Context](https://github.com/ga-wdi-lessons/js-scope)|[Timer JS](https://github.com/ga-wdi-exercises/timer_js) | [JS Selectors Diagnostic](https://github.com/ga-wdi-exercises/my-blawg) | [Window Object](http://www.w3schools.com/jsref/obj_window.asp)
+|[Event Listener Practice](https://github.com/ga-wdi-exercises/event-listener-practice) | [Dev Tools](https://github.com/sf-wdi-33/dev-tools)| [Pixart JS](https://github.com/ga-wdi-exercises/pixart_js)
+|[Events This Practice](https://github.com/ga-wdi-exercises/events-this-practice) | [Dev Tools Exercise](https://github.com/sf-wdi-33/dev-tools-training)
+| [Color Scheme Switcher Exercise](https://github.com/ga-wdi-exercises/color-scheme-switcher)
+
+### Wednesday
+
+| Morning Lesson | Homework (Due 11/28) | Group Teach Backs
+| --- | --- | ---
+|[ES6](https://github.com/ga-wdi-lessons/es6/blob/master/readme.md) | [Codecademy JS](https://www.codecademy.com/learn/javascript) | [Template Literals & The Spread Operator](https://github.com/jtellis/wdi-pvd-es6-features)
+| | | [Arrow Functions, Default Parameters, & Shortening ](https://github.com/MurphyPicard/group2nov23/blob/master/group2lessonplan.md)
+| | |[Classes & Getters and Setters](https://github.com/missjuliekhun/markdown-here/blob/lesson_plan/README.md)
+| | |[Block Scope & Destructuring](https://github.com/ahnuce/readmeexample/blob/master/readmeexample.md)
+
 
 ### Tuesday
 
@@ -46,9 +72,10 @@
 | Lessons | Homework | Diagnostics | Resources
 | --- | --- | --- | ---
 | [JS Objects This](https://github.com/ga-wdi-boston/js-objects-this)  |[JS Functions Ins and Outs Study](https://github.com/ga-wdi-boston/js-functions-ins-and-outs-study) | [JS Reference Types Diagnostic](https://github.com/ga-wdi-boston/js-reference-types-diagnostic) | [JS Object Prototypes](http://www.w3schools.com/js/js_object_prototypes.asp)
-|[JS OOJS Classes](https://github.com/ga-wdi-lessons/js-oojs-classes) | [HTML Intro](https://github.com/ga-wdi-lessons/html-intro)
+|[JS OOJS Classes](https://github.com/ga-wdi-lessons/js-oojs-classes)
 |[ES6 Classes Practice](https://github.com/ga-wdi-exercises/es6-classes-practice)
 |[ES6 Classes Inheritance Practice](https://github.com/ga-wdi-exercises/es6-classes-inheritance-practice)
+|[HTML Intro](https://github.com/ga-wdi-lessons/html-intro)
 
 ### Friday
 
