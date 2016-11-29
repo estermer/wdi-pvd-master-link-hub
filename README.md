@@ -14,7 +14,7 @@
 
 | Morning Walk Throughs | Project 1
 | --- | ---
-| [TimerJS Solution](https://github.com/estermer/timer_js) | 
+| [TimerJS Solution](https://github.com/estermer/timer_js) | [Frontend Game Project](https://github.com/ga-wdi-exercises/project1)
 
 ## Week 2
 ### Monday
