@@ -3,13 +3,12 @@
 ## Week 3
 ### Monday
 
-| Morning Lesson | Afternoon Lesson  | Homework| Exercises | Resources
-| --- | --- | --- | --- | ---
-| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | [AJAX and API's](https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md) | | [The Walker](https://github.com/ga-wdi-exercises/the_walker) | [API Directory](http://www.programmableweb.com/apis/directory)
-| [Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
-| [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md) | | | |
-| [Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) | | | |
-| [Sass extends/inheritance](https://github.com/awanderlyss/GROUP3SASS) | | | |
+| Morning Lesson | Afternoon Lesson  | Homework| Group Teach Backs | Exercises | Resources
+| --- | --- | --- | --- | --- | ---
+| [Sass Intro](https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md) | [APIs & AJAX](https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md) |[AJAX & API: The Walker](https://github.com/danman01/wdi-pvd-ajax-api-exercise) |[Sass Variables/Scope](https://github.com/mconnors333/Sass/blob/master/readme.md) | [The Walker](https://github.com/ga-wdi-exercises/the_walker) | [API Directory](http://www.programmableweb.com/apis/directory)
+|  | |[SASS: The Walker](https://github.com/danman01/wdi-pvd-sass-exercise) | [Sass Mixins](https://github.com/mconnors333/Sass/blob/master/readme.md)|
+| | | |[Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) |
+| | | |[Sass extends/inheritance](https://github.com/awanderlyss/GROUP3SASS)
 
 ## Week 2
 ### Monday
@@ -36,14 +35,6 @@
 | | | [Arrow Functions, Default Parameters, & Shortening ](https://github.com/MurphyPicard/group2nov23/blob/master/group2lessonplan.md)
 | | |[Classes & Getters and Setters](https://github.com/missjuliekhun/markdown-here/blob/lesson_plan/README.md)
 | | |[Block Scope & Destructuring](https://github.com/ahnuce/readmeexample/blob/master/readmeexample.md)
-
-
-### Tuesday
-
-| Lessons | Homework | Diagnostics | Resources
-| --- | --- | --- | ---
-| | | [My-Blawg](https://github.com/ga-wdi-exercises/my-blawg) | [Window Object](http://www.w3schools.com/jsref/obj_window.asp)
-| | | |
 
 ## Week 1
 ### Monday
