@@ -10,6 +10,12 @@
 | | | |[Sass Nesting](https://github.com/ahnuce/readmeexample/blob/master/sassreadme.md) |
 | | | |[Sass extends/inheritance](https://github.com/awanderlyss/GROUP3SASS)
 
+### Tuesday
+
+| Morning Walk Throughs | Project 1
+| --- | ---
+| [TimerJS Solution](https://github.com/estermer/timer_js) | 
+
 ## Week 2
 ### Monday
 
